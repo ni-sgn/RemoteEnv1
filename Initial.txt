@@ -1,1 +1,2 @@
 This is an initial file
+I'm working on the file unknowing that they also changed the file.
