@@ -1,2 +1,3 @@
-This is an initial file
+<<<<<<< HEAD
 I'm working on the file unknowing that they also changed the file.
+Maliciously changed the file.
